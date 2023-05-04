@@ -12,6 +12,9 @@ Libraries used:
 #camerax for taking picture
 #Retrofit for call to GPT
 
+https://raw.githubusercontent.com/Charles006/Imagen_OCR_to_GPT/master/Screenshot_20230504-035926_Imagen_OCR_To_GPT.jpg
+https://raw.githubusercontent.com/Charles006/Imagen_OCR_to_GPT/master/Screenshot_20230504-041008_Imagen_OCR_To_GPT.jpg
+https://raw.githubusercontent.com/Charles006/Imagen_OCR_to_GPT/master/Screenshot_20230504-041020_Imagen_OCR_To_GPT.jpg
 
 
 
