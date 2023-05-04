@@ -1,4 +1,4 @@
-# Image-OCR-to-GPT - whitelabel
+# Image-OCR-to-GPT - WHITELABEL
 
 This example uses an OCR to send the data to the GPT API. It can be used when you want to write especially long text and send it to GPT.
 
