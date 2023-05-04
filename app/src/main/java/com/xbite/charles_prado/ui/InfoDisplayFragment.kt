@@ -33,7 +33,7 @@ class InfoDisplayFragment : Fragment(R.layout.fragment_info_display) {
         val temperature : Double = binding.txtTemperature.text.toString().toDouble()
         val rawtext2 : String = binding.textoOCR.text.toString()
 
-        chatGPTApiClient = ChatGPTApiClient(  getString(R.string.pointing_message)
+        chatGPTApiClient = ChatGPTApiClient(  getString(R.string.GPT_apiKey)
         ,maxTokens,temperature)
 
         /*
