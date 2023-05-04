@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Imagen_OCR_To_GPT</string>
+    <string name="ok">OK</string>
+    <string name="extracting_text">Extrayendo Texto</string>
+    <string name="rawText">Ingrese la consulta</string>
+    <string name="pointing_message">Apunte hacia el objetivo y tome una foto</string>
+    <string name="GPT_apiKey">YOUR API KEY</string>
+    <string name="GPT_apiKey2">YOUR API KEY</string>
+
+</resources>

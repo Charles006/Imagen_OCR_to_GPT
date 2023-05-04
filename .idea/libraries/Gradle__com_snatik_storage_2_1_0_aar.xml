@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.snatik:storage:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da976c96ba73c211217c296c4daebd20/jetified-storage-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da976c96ba73c211217c296c4daebd20/jetified-storage-2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.snatik/storage/2.1.0/9e5412185795ce0b29ff3c253cee9d849a1cb9a4/storage-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.snatik/storage/2.1.0/9fdcb989c0ff184b07f621648ce0d9e7aa7095b0/storage-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
